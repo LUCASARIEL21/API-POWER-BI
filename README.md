@@ -9,13 +9,13 @@ Este projeto é uma aplicação Frent-End construida para exportar relatórios d
 
 ## Layout web
 
-![web 1] (https://github.com/LUCASARIEL21/API-POWER-BI/blob/main/src/img/layout%20web.png)
+![web 1](https://github.com/LUCASARIEL21/API-POWER-BI/blob/main/src/img/layout%20web.png)
 
 # Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JavaScript
 - ReactJS
-- 
+  
 ## Implantação em produção
 - Front end web: Netlify
 
