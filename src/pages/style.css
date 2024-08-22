@@ -1,0 +1,56 @@
+#Navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0b2768;
+    gap: 32px;
+    /*top, direita, baixo, esquerda*/
+    padding: 20px 80px 20px 80px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+
+p{
+    line-height: 150%;
+    margin-bottom: 32px;
+}
+
+#Dash{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#Footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 80px 50px 80px;
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+#Footer .titulo {
+    display: block;
+    font-weight: 600;
+}
+
+#Footer p {
+    margin-bottom: 16px;
+    max-width: 350px;
+}
+
+#copyright {
+    padding: 24px;
+    text-align: center;
+    height: 30px;
+}
+
+#copyright a {
+    color: black;
+}
