@@ -15,15 +15,14 @@ const Home = () => {
           width="100%"
           height="600"
           src="https://app.powerbi.com/view?r=eyJrIjoiMzVjYTdjZTgtYTk3My00MTQwLTgyODItMTMwNDVkYTc5ODA1IiwidCI6Ijk3YTZlYTk4LTA4OGItNGM1NC04ZmYwLTg5MTAwYmIyOWIzMyJ9"
-          frameborder="0"
         ></iframe>
       </div>
       <div id="Footer">
         <div>
-          <strong class="titulo">Encontre-me</strong>
+          <strong className="titulo">Encontre-me</strong>
           <p>
             WhatsApp:
-            <a href="https://wa.me/+5583988378397" target="_blank">
+            <a href="https://wa.me/+5583988378397">
               (83) 98837-8397
             </a>
           </p>
@@ -33,7 +32,7 @@ const Home = () => {
           </p>
         </div>
         <div id="copyright">
-          Desenvolvido por <a>Lucas Ariel</a>
+          Desenvolvido por Lucas Ariel
         </div>
       </div>
     </div>
